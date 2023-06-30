@@ -1,0 +1,1 @@
+print("Uttam is the best teacher")
